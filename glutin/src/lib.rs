@@ -82,6 +82,7 @@
     missing_debug_implementations,
     //missing_docs,
 )]
+#![allow(deprecated)]
 // Docs for subcrates are borked.
 #![allow(intra_doc_link_resolution_failure)]
 
